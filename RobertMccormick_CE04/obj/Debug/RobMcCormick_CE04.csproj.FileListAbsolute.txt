@@ -1,0 +1,11 @@
+\\vmware-host\Shared Folders\Desktop\Source\MccormickRob_CE04_fix\bin\Debug\WinformTutorial.exe.config
+\\vmware-host\Shared Folders\Desktop\Source\MccormickRob_CE04_fix\bin\Debug\WinformTutorial.exe
+\\vmware-host\Shared Folders\Desktop\Source\MccormickRob_CE04_fix\bin\Debug\WinformTutorial.pdb
+\\vmware-host\Shared Folders\Desktop\Source\MccormickRob_CE04_fix\obj\Debug\RobMcCormick_CE04.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Source\MccormickRob_CE04_fix\obj\Debug\WinformTutorial.InputForm.resources
+\\vmware-host\Shared Folders\Desktop\Source\MccormickRob_CE04_fix\obj\Debug\WinformTutorial.ListForm.resources
+\\vmware-host\Shared Folders\Desktop\Source\MccormickRob_CE04_fix\obj\Debug\WinformTutorial.MainForm.resources
+\\vmware-host\Shared Folders\Desktop\Source\MccormickRob_CE04_fix\obj\Debug\WinformTutorial.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\Source\MccormickRob_CE04_fix\obj\Debug\RobMcCormick_CE04.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\Source\MccormickRob_CE04_fix\obj\Debug\WinformTutorial.exe
+\\vmware-host\Shared Folders\Desktop\Source\MccormickRob_CE04_fix\obj\Debug\WinformTutorial.pdb

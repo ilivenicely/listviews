@@ -1,0 +1,6 @@
+\\vmware-host\Shared Folders\Desktop\Source.1.1\Source\WinformTutorial\bin\Debug\WinformTutorial.exe.config
+\\vmware-host\Shared Folders\Desktop\Source.1.1\Source\WinformTutorial\obj\Debug\WinformTutorial.exe
+\\vmware-host\Shared Folders\Desktop\Source.1.1\Source\WinformTutorial\obj\Debug\WinformTutorial.pdb
+\\vmware-host\Shared Folders\Desktop\New folder\bin\Debug\WinformTutorial.exe.config
+\\vmware-host\Shared Folders\Desktop\New folder\obj\Debug\WinformTutorial.exe
+\\vmware-host\Shared Folders\Desktop\New folder\obj\Debug\WinformTutorial.pdb

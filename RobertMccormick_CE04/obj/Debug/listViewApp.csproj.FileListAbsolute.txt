@@ -1,0 +1,25 @@
+\\vmware-host\Shared Folders\Desktop\New folder\bin\Debug\WinformTutorial.exe.config
+\\vmware-host\Shared Folders\Desktop\New folder\obj\Debug\WinformTutorial.exe
+\\vmware-host\Shared Folders\Desktop\New folder\obj\Debug\WinformTutorial.pdb
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE04\bin\Debug\WinformTutorial.exe.config
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE04\obj\Debug\WinformTutorial.exe
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE04\obj\Debug\WinformTutorial.pdb
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE04\bin\Debug\WinformTutorial.exe
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE04\bin\Debug\WinformTutorial.pdb
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE04\obj\Debug\listViewApp.csprojResolveAssemblyReference.cache
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE04\obj\Debug\WinformTutorial.InputForm.resources
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE04\obj\Debug\WinformTutorial.ListForm.resources
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE04\obj\Debug\WinformTutorial.MainForm.resources
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE04\obj\Debug\WinformTutorial.Properties.Resources.resources
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE04\obj\Debug\listViewApp.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE04\bin\Debug\WinformTutorial.exe.config
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE04\obj\Debug\WinformTutorial.exe
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE04\obj\Debug\WinformTutorial.pdb
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE04\bin\Debug\WinformTutorial.exe
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE04\bin\Debug\WinformTutorial.pdb
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE04\obj\Debug\listViewApp.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE04\obj\Debug\WinformTutorial.InputForm.resources
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE04\obj\Debug\WinformTutorial.ListForm.resources
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE04\obj\Debug\WinformTutorial.MainForm.resources
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE04\obj\Debug\WinformTutorial.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE04\obj\Debug\listViewApp.csproj.GenerateResource.Cache
